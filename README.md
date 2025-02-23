@@ -1,2 +1,10 @@
-# Kali-Linux-Boot-Animation-Samsung
-A Magisk/Apatch/Ksu module that has the function of changing the default Samsung boot animation to a Kali Linux boot animation 
+# Objective
+
+Change Samsung's startup screen to this:
+https://private-user-images.githubusercontent.com/152689373/333874093-dcf664de-a222-48ee-b57f-e037b146acd4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAzNDMxMzQsIm5iZiI6MTc0MDM0MjgzNCwicGF0aCI6Ii8xNTI2ODkzNzMvMzMzODc0MDkzLWRjZjY2NGRlLWEyMjItNDhlZS1iNTdmLWUwMzdiMTQ2YWNkNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyM1QyMDMzNTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MGYxYjIzMGVjMjA0NTQ2MDFlMTIwN2YyODdmMDNiMjU4ODYyZjNhNjJlZWJmNTBmZWY3Zjg2NWIzM2E4Y2E0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6hkOU4m-vVpWPfkQkEFR1JvCx5r_xTZL0km-wB5aw-U
+
+This will be done through a Magisk/Apatch/Ksu module
+
+# Credits
+https://github.com/Kadir-Atmaca for animation
+https://github.com/ygeo5 for the module
